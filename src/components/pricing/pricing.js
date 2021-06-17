@@ -1,10 +1,12 @@
 
 import Breadcrumb from '../Breadcrumb'
+import Header from "../Header";
+import React from "react";
 
 function pricing() {
     return (
         <>
-
+            <Header activePage="Pricing" />
         <Breadcrumb currentPage='Our Prices' />
 
 

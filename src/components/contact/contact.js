@@ -1,10 +1,11 @@
 import React from 'react'
 import Breadcrumb from '../Breadcrumb'
+import Header from "../Header";
 
 function contact() {
     return (
         <>
-
+            <Header activePage="Contact" />
         <Breadcrumb currentPage='Contact Us' />
 
         <div id="contact" className="section wb">
