@@ -42,3 +42,10 @@
 .logo {
   height: 65px;
 }
+.message-box {
+  padding:10px ;
+}
+
+.footer {
+  margin-bottom: 0px !important;
+}

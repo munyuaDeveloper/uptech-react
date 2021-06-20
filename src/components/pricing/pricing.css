@@ -1,0 +1,33 @@
+.pricingTable_mpesa {
+    min-height: 726px!important;
+}
+
+.pricingTable_mpesa .pricing-content {
+    min-height: 280px!important;
+}
+.pricingTable_web {
+    min-height: 726px!important;
+}
+
+.pricingTable_web .pricing-content {
+    min-height: 33px!important;
+}
+
+.pricingTable_mpesa {
+    min-height: 726px!important;
+}
+
+.pricingTable_mpesa .pricing-content {
+    min-height: 280px!important;
+}
+.pricingTable .currency {
+    display: inline-block;
+    font-size: 24px !important;
+    margin-top: 7px;
+    vertical-align: top;
+}
+#about {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-bottom: 50px;
+}
