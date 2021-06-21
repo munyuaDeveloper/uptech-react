@@ -4,7 +4,7 @@
 .rounded-circle:hover {
   width: 90.5%;
   box-shadow: 0 5px 15px rgb(0 0 0 / 10%);
-  /* transition: all 1s ease-in-out; */
+  cursor: pointer;
 }
 
 .personal_info {

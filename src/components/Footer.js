@@ -1,4 +1,8 @@
-import parallax_03 from '../uploads/parallax_03.jpg'
+import parallax_03 from '../uploads/parallax_03.jpg';
+import {
+    Link
+  } from "react-router-dom";
+
 
 function Footer() {
     return (
@@ -133,13 +137,18 @@ function Footer() {
                                 </div>
 
                                 <ul className="footer-links hov">
-                                    <li><a href="{{url('/')}}">Home <span className="icon icon-arrow-right2"></span></a></li>
-                                    <li><a href="{{url('pricing')}}">Pricing <span className="icon icon-arrow-right2"></span></a>
+                                    <li>
+                                        <Link to="/">Home <span className="icon icon-arrow-right2"></span></Link>
                                     </li>
-                                    <li><a href="{{url('about-us')}}">About <span className="icon icon-arrow-right2"></span></a>
+                                    <li>
+                                        <Link to="pricing">Pricing <span className="icon icon-arrow-right2"></span></Link>
                                     </li>
-                                    <li><a href="#">Faq <span className="icon icon-arrow-right2"></span></a></li>
-                                    <li><a href="{{url('contact-us')}}">Contact <span className="icon icon-arrow-right2"></span></a>
+                                    <li>
+                                        <Link to="about">About <span className="icon icon-arrow-right2"></span></Link>
+                                    </li>
+                                    {/* <li><a href="#">Faq <span className="icon icon-arrow-right2"></span></a></li> */}
+                                    <li>
+                                        <Link to="contact">Contact <span className="icon icon-arrow-right2"></span></Link>
                                     </li>
                                 </ul>
                             </div>
