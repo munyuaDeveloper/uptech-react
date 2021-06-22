@@ -1,5 +1,6 @@
 
 import './App.css';
+import './css/owl.carousel.css'
 import Footer from './components/Footer';
 import {
   BrowserRouter as Router,

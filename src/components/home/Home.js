@@ -1,10 +1,8 @@
 import React from 'react'
 import AboutSection from './AboutSection'
-import HeroSectionSlider from './HeroSectionSlider'
 import ProjectAndClients from './ProjectAndClients'
-import ServicesSection from './ServicesSection'
 import NavbarSlider from "../NavbarSlider";
-import {BrowserRouter as Router} from "react-router-dom";
+import Service from "../services/Service";
 
 function Home() {
     return (
@@ -15,7 +13,7 @@ function Home() {
 
             <ProjectAndClients/> 
 
-            <ServicesSection />
+            <Service />
         </div>
     )
 }

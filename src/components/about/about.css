@@ -54,10 +54,13 @@
 
 .team4 ul li a {
   color: #8d97ad;
-  padding-right: 15px;
+  padding-right: 12px;
   -webkit-transition: 0.1s ease-in;
   -o-transition: 0.1s ease-in;
   transition: 0.1s ease-in;
+}
+.team4 ul {
+  margin-left: 5px;
 }
 
 .team4 ul li a:hover {

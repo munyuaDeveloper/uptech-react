@@ -38,6 +38,32 @@ function AboutUs() {
                                         <h5 className="mt-4 text-bold">Peter Munyua</h5>
                                         <h6 className="subtitle mb-3">Front-end Developer</h6>
                                     </div>
+                                    <ul className="list-inline">
+                                        <li className="list-inline-item">
+                                            <a className="social-icon text-xs-center" target="_blank"
+                                               href="https://www.linkedin.com/in/peter-munyua">
+                                                <i className="fa fa-linkedin"/>
+                                            </a>
+                                        </li>
+                                        <li className="list-inline-item">
+                                            <a className="social-icon text-xs-center" target="_blank"
+                                               href="https://www.gitshowcase.com/munyuaDeveloper">
+                                                <i className="fa fa-github"/>
+                                            </a>
+                                        </li>
+                                        <li className="list-inline-item">
+                                            <a className="social-icon text-xs-center" target="_blank"
+                                               href="https://wa.me/254705984772?">
+                                                <i className="fa fa-whatsapp"/>
+                                            </a>
+                                        </li>
+                                        <li className="list-inline-item">
+                                            <a className="social-icon text-xs-center" target="_blank"
+                                               href="http://munyua.pythonanywhere.com">
+                                                <i className="fa fa-globe"/>
+                                            </a>
+                                        </li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -51,6 +77,32 @@ function AboutUs() {
                                         <h5 className="mt-4 text-bold">Brian Mokandu</h5>
                                         <h6 className="subtitle mb-3">Back-end Developer</h6>
                                     </div>
+                                    <ul className="list-inline text-center">
+                                        <li className="list-inline-item">
+                                            <a className="social-icon text-xs-center" target="_blank"
+                                               href="https://www.linkedin.com/in/brian-mokandu-3a8050118/">
+                                                <i className="fa fa-linkedin"/>
+                                            </a>
+                                        </li>
+                                        <li className="list-inline-item">
+                                            <a className="social-icon text-xs-center" target="_blank"
+                                               href="https://github.com/brianbrix/">
+                                                <i className="fa fa-github"/>
+                                            </a>
+                                        </li>
+                                        <li className="list-inline-item">
+                                            <a className="social-icon text-xs-center" target="_blank"
+                                               href="https://wa.me/254745865323?">
+                                                <i className="fa fa-whatsapp"/>
+                                            </a>
+                                        </li>
+                                        <li className="list-inline-item">
+                                            <a className="social-icon text-xs-center" target="_blank"
+                                               href="http://brianmokandu.tech/">
+                                                <i className="fa fa-globe"/>
+                                            </a>
+                                        </li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -64,6 +116,31 @@ function AboutUs() {
                                         <h5 className="mt-4 text-bold">David Njau</h5>
                                         <h6 className="subtitle mb-3">Android Developer</h6>
                                     </div>
+                                    <ul className="list-inline">
+                                        <li className="list-inline-item">
+                                            <a className="social-icon text-xs-center" target="_blank"
+                                               href="https://www.linkedin.com/in/david-njau-2638b617a/">
+                                                <i className="fa fa-linkedin"/>
+                                            </a>
+                                        </li>
+                                        <li className="list-inline-item">
+                                            <a className="social-icon text-xs-center" target="_blank"
+                                               href="https://github.com/davidnjau">
+                                                <i className="fa fa-github"/>
+                                            </a>
+                                        </li>
+                                        <li className="list-inline-item">
+                                            <a className="social-icon text-xs-center" target="_blank"
+                                               href="https://wa.me/254716060198?">
+                                                <i className="fa fa-whatsapp"/>
+                                            </a>
+                                        </li>
+                                        <li className="list-inline-item">
+                                            <a className="social-icon text-xs-center" target="_blank" href="#">
+                                                <i className="fa fa-globe"/>
+                                            </a>
+                                        </li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>

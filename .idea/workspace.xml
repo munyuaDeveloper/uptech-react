@@ -1,40 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed361db1-b502-4fa1-8995-6afeb2d49a08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/NavbarSlider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Navbar/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Navbar/Navbar.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Subtitle/Subtitle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Subtitle/Subtitle.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Title/Title.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Title/Title.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Wrapper/Wrapper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Wrapper/Wrapper.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uploads/Uptech_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uploads/Uptech_logo_only.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uploads/uptech_logo2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+    <list default="true" id="804d910a-e9b0-4f57-812d-9914d5ed9631" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/services/service.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uploads/logo_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uploads/logo_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uploads/logo_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uploads/logo_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uploads/logo_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uploads/logo_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uploads/testi_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uploads/testi_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uploads/testi_03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/about/AboutUs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/about/AboutUs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/contact/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contact/contact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/home/AboutSection.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/home/AboutSection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/about/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/about/about.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/home/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/pricing/pricing.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pricing/pricing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/home/ServicesSection.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/services/Service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/services/Service.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/owl.carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/owl.carousel.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uploads/logo_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uploads/logo_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uploads/logo_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uploads/logo_04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uploads/logo_05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uploads/logo_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +33,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -60,6 +49,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/uploads" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -104,10 +94,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="729" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1623925883696">
+    <state x="729" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1624369422374">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="729" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1623925883696" />
+    <state x="729" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1624369422374" />
     <state width="1896" height="274" key="GridCell.Tab.0.bottom" timestamp="1623908199997">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
