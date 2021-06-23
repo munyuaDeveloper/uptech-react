@@ -2,27 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="804d910a-e9b0-4f57-812d-9914d5ed9631" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/services/service.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uploads/logo_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uploads/logo_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uploads/logo_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uploads/logo_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uploads/logo_05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uploads/logo_06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uploads/testi_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uploads/testi_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uploads/testi_03.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/about/AboutUs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/about/AboutUs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/about/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/about/about.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/home/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/home/ServicesSection.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/services/Service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/services/Service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/services/service.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/services/service.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -59,7 +59,7 @@ function AboutUs() {
                                         </li>
                                         <li className="list-inline-item">
                                             <a className="social-icon text-xs-center" target="_blank"
-                                               href="http://munyua.pythonanywhere.com">
+                                               href="http://munyua.tech">
                                                 <i className="fa fa-globe"/>
                                             </a>
                                         </li>

@@ -2,6 +2,7 @@ import React from "react";
 import HeroSlider, { Slide, MenuNav, OverlayContainer } from "hero-slider";
 import Wrapper from "./UI/Wrapper/Wrapper";
 import Header from "./Header";
+import {Link} from "react-router-dom"
 
 // Images
 import slider_01 from '../uploads/slider_01.jpg';
@@ -39,10 +40,10 @@ const NavbarSlider = ({activePage}) => {
                         <h2>With Uptech Payouts mobile-money integraion services, <br/>you can easily integrate your
                             website with M-Pesa and other Mobile money services.</h2>
                         <div className="slider-content-btn">
-                            <a className="button btn btn-light btn-radius btn-brd mr-5" href="">Read
-                                More</a>
-                            <a className="button btn btn-light btn-radius btn-brd"
-                               href="">Contact</a>
+                            <Link className="button btn btn-light btn-radius btn-brd mr-5" to="about">Read
+                                More</Link>
+                            <Link className="button btn btn-light btn-radius btn-brd"
+                               to="contact">Contact</Link>
                         </div>
                     </div>
                 </Wrapper>
