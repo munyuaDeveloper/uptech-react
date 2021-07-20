@@ -64,9 +64,9 @@
 
 }
 #navbarsExample09 {
-  background-color: #9a999c;
+  background-color: #00b7a08f;
   position: relative;
-  animation: mymove 3s;
+  animation: mymove 0s;
   animation-fill-mode: forwards;
 }
 
