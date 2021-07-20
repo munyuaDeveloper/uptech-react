@@ -2,12 +2,10 @@ import React from 'react'
 import AboutSection from './AboutSection'
 import ProjectAndClients from './ProjectAndClients'
 import NavbarSlider from "../NavbarSlider";
-import Service from "../services/Service";
 import OwlCarousel from "react-owl-carousel";
-import service_01 from "../../uploads/service_01.jpg";
+import service_01 from "../../uploads/payment-gateway.jpg";
 import service_02 from "../../uploads/service_02.jpg";
 import service_03 from "../../uploads/service_03.jpg";
-import service_04 from "../../uploads/service_04.jpg";
 import { useMediaQuery } from "react-responsive";
 
 function Home() {
@@ -33,8 +31,8 @@ function Home() {
                                 <img src={service_01} alt="" className="img-responsive img-rounded" />
                             </div>
                             <div className="service-dit">
-                                <h3>Smart Swatch Editions</h3>
-                                <p>Aliquam sagittis ligula et sem lacinia, ut facilisis enim sollicitudin. Proin nisi est, convallis nec purus vitae, iaculis posuere sapien. Cum sociis natoque.</p>
+                                <h3>Payment Gateway Integration</h3>
+                                <p>We help small business integrate their existing systems with payment gate ways like Mpesa, PayPal and Credit Cards.</p>
                             </div>
                         </div>
 
@@ -44,8 +42,8 @@ function Home() {
                                 <img src={service_02} alt="" className="img-responsive img-rounded" />
                             </div>
                             <div className="service-dit">
-                                <h3>Web UI Kit Design</h3>
-                                <p>Duis at tellus at dui tincidunt scelerisque nec sed felis. Suspendisse id dolor sed leo rutrum euismod. Nullam vestibulum fermentum erat. It nam auctor. </p>
+                                <h3>Web Applications</h3>
+                                <p>We create landing pages for corporate businesses to help them sell their services online. We also create online shops for small and established business. </p>
                             </div>
                         </div>
 
@@ -55,19 +53,8 @@ function Home() {
                                 <img src={service_03} alt="" className="img-responsive img-rounded" />
                             </div>
                             <div className="service-dit">
-                                <h3>Mobile Optimization</h3>
-                                <p>Etiam materials ut mollis tellus, vel posuere nulla. Etiam sit amet lacus vitae massa sodales aliquam at eget quam. Integer ultricies et magna quis accumsan.</p>
-                            </div>
-                        </div>
-
-                        <div className="service-widget">
-                            <div className="post-media wow fadeIn">
-                                <a href="uploads/service_04.jpg" data-rel="prettyPhoto[gal]" className="hoverbutton global-radius"><i className="flaticon-unlink" /></a>
-                                <img src={service_04} alt="" className="img-responsive img-rounded" />
-                            </div>
-                            <div className="service-dit">
-                                <h3>Digital Design for Mac</h3>
-                                <p>Praesent in neque congue sapien lobortis faucibus id eget erat. <br />Pellentesque maximus rutrum felis. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+                                <h3>Mobile Applications</h3>
+                                <p>We create both Android and IOS mobile applications for online shops and cooporate businesses.</p>
                             </div>
                         </div>
                     </OwlCarousel>

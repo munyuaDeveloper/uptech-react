@@ -28,7 +28,7 @@ function Service() {
                                     <span className="icon icon-display" />
                                 </div>
                                 <div className="about-text">
-                                    <h3>Web Application </h3>
+                                    <h3>Web Applications </h3>
                                     <p>We create eye-catching, responsive and optimized web applications at affordable prices. </p>
                                 </div>
                             </div>
@@ -36,10 +36,10 @@ function Service() {
                         <div className="col-md-3 col-sm-6">
                             <div className="about-item">
                                 <div className="about-icon">
-                                    <span className="icon icon-database" />
+                                    <span className="icon icon-mobile" />
                                 </div>
                                 <div className="about-text">
-                                    <h3> Mobile Application</h3>
+                                    <h3> Mobile Applications</h3>
                                     <p>We create mobile application that fits your business requirements at affordable prices. </p>
                                 </div>
                             </div>
@@ -47,7 +47,7 @@ function Service() {
                         <div className="col-md-3 col-sm-6">
                             <div className="about-item">
                                 <div className="about-icon">
-                                    <span className="icon icon-magic-wand" />
+                                    <span className="icon icon-wrench" />
                                 </div>
                                 <div className="about-text">
                                     <h3> Payment Integration</h3>
@@ -58,7 +58,7 @@ function Service() {
                         <div className="col-md-3 col-sm-6">
                             <div className="about-item">
                                 <div className="about-icon">
-                                    <span className="icon icon-cloud" />
+                                    <span className="icon icon-display" />
                                 </div>
                                 <div className="about-text">
                                     <h3> Point of Sale Systems</h3>
@@ -95,8 +95,8 @@ function Service() {
                                 <img src={service_02} alt="" className="img-responsive img-rounded" />
                             </div>
                             <div className="service-dit">
-                                <h3>Web Application</h3>
-                                <p>We create landing pages for cooporate businesses to help them sell their services online. We also create online shops for small and established business. </p>
+                                <h3>Web Applications</h3>
+                                <p>We create landing pages for corporate businesses to help them sell their services online. We also create online shops for small and established business. </p>
                             </div>
                         </div>
 
@@ -107,7 +107,7 @@ function Service() {
                             </div>
                             <div className="service-dit">
                                 <h3>Mobile Application</h3>
-                                <p>We create both Android and IOS mobile applications for online shops and cooporate businesses.</p>
+                                <p>We create both Android and IOS mobile applications for online shops and corporate businesses.</p>
                             </div>
                         </div>
                     </OwlCarousel>
