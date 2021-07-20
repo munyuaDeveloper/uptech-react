@@ -1,10 +1,9 @@
-import about_01 from '../../uploads/about_01.jpg'
-import about_02 from '../../uploads/about_02.jpg'
+import about_01 from '../../uploads/about_us.png'
 function AboutSection() {
     return (
         <div id="about" className="section wb">
             <div className="container">
-                <div className="row">
+                <div className="row about_us_section">
                     <div className="col-md-6">
                         <div className="message-box">
                             <h4>Who We are</h4>
@@ -25,7 +24,7 @@ function AboutSection() {
                     <div className="col-md-6">
                         <div className="post-media wow fadeIn">
                             <img src={about_01} alt="" className="img-responsive img-rounded" />
-                            <a href="http://www.youtube.com/watch?v=nrJtHemSPW4" data-rel="prettyPhoto[gal]" className="playbutton"><i className="flaticon-play-button"></i></a>
+                            <a href="https://www.youtube.com/watch?v=jzJL6jR9l1o" target="_blank" data-rel="prettyPhoto[gal]" className="playbutton"><i className="flaticon-play-button"></i></a>
                         </div>
                     </div>
                 </div>

@@ -1,5 +1,5 @@
 
-import {Link} from "react-router-dom";
+import { Link } from "react-router-dom";
 import OwlCarousel from 'react-owl-carousel';
 import 'owl.carousel/dist/assets/owl.carousel.css';
 import 'owl.carousel/dist/assets/owl.theme.default.css';
@@ -7,25 +7,24 @@ import parallax_03 from '../uploads/parallax_03.jpg'
 import testi_01 from '../uploads/testi_01.png'
 import testi_02 from '../uploads/testi_02.png'
 import testi_03 from '../uploads/testi_03.png'
-import logo  from '../uploads/uptech_logo2.png'
-import logo1  from '../uploads/logo_01.png'
-import logo2  from '../uploads/logo_02.png'
-import logo3  from '../uploads/logo_03.png'
-import logo4  from '../uploads/logo_04.png'
-import logo5  from '../uploads/logo_05.png'
-import logo6  from '../uploads/logo_06.png'
+import logo from '../uploads/uptech_logo2.png'
+import logo1 from '../uploads/logo_01.png'
+import logo2 from '../uploads/logo_02.png'
+import logo3 from '../uploads/logo_03.png'
+import logo4 from '../uploads/logo_04.png'
+import logo5 from '../uploads/logo_05.png'
+import logo6 from '../uploads/logo_06.png'
 
 
 function Footer() {
     return (
         <>
-            <div id="testimonials" className="parallax section db parallax-off"
-                 style={{backgroundImage: "url(" + parallax_03 + ")"}}>
+            <div id="testimonials" className="parallax section db parallax-off">
                 <div className="container">
                     <div className="section-title text-center">
                         <h3>Testimonials</h3>
                         <p className="lead">We thanks for all our awesome testimonials! There are hundreds of our happy
-                            customers! <br/>Let's see what others say about GoodWEB Solutions website template!</p>
+                            customers! <br />Let's see what others say about GoodWEB Solutions website template!</p>
                     </div>
 
                     <div className="row">
@@ -38,7 +37,7 @@ function Footer() {
                                             sed highly skilled, and experienced & professional team.</p>
                                     </div>
                                     <div className="testi-meta">
-                                        <img src={testi_01} alt="" className="img-responsive alignleft"/>
+                                        <img src={testi_01} alt="" className="img-responsive alignleft" />
                                         <h4>James Fernando <small>- Manager of Racer</small></h4>
                                     </div>
 
@@ -51,7 +50,7 @@ function Footer() {
                                             pleasure and praising pain was born and I will give you completed.</p>
                                     </div>
                                     <div className="testi-meta">
-                                        <img src={testi_02} alt="" className="img-responsive alignleft"/>
+                                        <img src={testi_02} alt="" className="img-responsive alignleft" />
                                         <h4>Jacques Philips <small>- Designer</small></h4>
                                     </div>
 
@@ -64,7 +63,7 @@ function Footer() {
                                             dislikes avoids pleasure itself, because it is very pursue pleasure. </p>
                                     </div>
                                     <div className="testi-meta">
-                                        <img src={testi_03} alt="" className="img-responsive alignleft"/>
+                                        <img src={testi_03} alt="" className="img-responsive alignleft" />
                                         <h4>Venanda Mercy <small>- Newyork City</small></h4>
                                     </div>
 
@@ -74,9 +73,7 @@ function Footer() {
                         </div>
                     </div>
 
-                    <hr className="hr1"/>
-
-                    <div className="row logos">
+                    {/* <div className="row logos">
                         <div className="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
                             <a href="#"><img src={logo1} alt="" className="img-repsonsive"/></a>
                         </div>
@@ -95,10 +92,11 @@ function Footer() {
                         <div className="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
                             <a href="#"><img src={logo6} alt="" className="img-repsonsive"/></a>
                         </div>
-                    </div>
+                    </div> */}
 
                 </div>
             </div>
+            <hr className="hr1" />
             <footer className="footer">
                 <div className="container">
                     <div className="row">

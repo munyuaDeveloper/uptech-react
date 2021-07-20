@@ -11,7 +11,6 @@ import AboutUs from './components/about/AboutUs';
 import Service from './components/services/Service';
 import pricing from './components/pricing/pricing';
 import contact from './components/contact/contact';
-import NavbarSlider from "./components/NavbarSlider";
 
 function App() {
   return (
@@ -19,17 +18,17 @@ function App() {
 
       <Router>
 
-          <Route path='/' exact component={Home}></Route>
+        <Route path='/' exact component={Home}></Route>
 
-          <Route path='/about' component={AboutUs}></Route>
+        <Route path='/about' component={AboutUs}></Route>
 
-          <Route path='/service' component={Service}></Route>
+        <Route path='/service' component={Service}></Route>
 
-          <Route path='/pricing' component={pricing}></Route>
+        <Route path='/pricing' component={pricing}></Route>
 
-          <Route path='/contact' component={contact}></Route>
+        <Route path='/contact' component={contact}></Route>
 
-          <Footer/>
+        <Footer />
       </Router>
     </div>
   );

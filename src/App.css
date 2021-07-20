@@ -63,6 +63,17 @@
   padding: 10px;
 
 }
+#navbarsExample09 {
+  background-color: #9a999c;
+  position: relative;
+  animation: mymove 3s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes mymove {
+  from {top: -100px;}
+  to {top: 0px;}
+}
 
 .phone-mirror {
   position: relative;
@@ -117,5 +128,9 @@
 }
 
 .footer {
-  padding: 90px 0 0px !important; 
+  padding: 20px 0 0px !important; 
+}
+
+.about_us_section {
+  padding: 50px 10px;
 }

@@ -704,7 +704,7 @@ li.social-links a {
 }
 
 .section.db {
-  background-color: #1f1f1f;
+  background-color: #23273f;
 }
 
 .section.color1 {
@@ -946,7 +946,7 @@ li.social-links a {
 .desc {
   padding: 30px;
   position: relative;
-  background: #393939;
+  background: #595e79;
   border: 1px solid #393939;
   -webkit-border-radius: 25px 0px 25px 0px;
   -moz-border-radius: 25px 0px 25px 0px;
@@ -1357,7 +1357,7 @@ li.social-links a {
 
 hr.hr1 {
   position: relative;
-  margin: 60px 0;
+  margin: 0;
   border: 1px dashed #f2f3f5;
 }
 
@@ -2057,7 +2057,7 @@ select.mobile-device {
 .footer {
   padding: 90px 0 80px !important;
   color: #999;
-  background-color: #393939;
+  background-color: #23273f;
 }
 
 .footer .widget-title {
@@ -2893,17 +2893,16 @@ select.mobile-device {
 
 
 .banner-bg-1 {
-  background: url(../uploads/inner-bg.jpg);
   padding: 165px 0;
-  background-clip: initial;
-  background-color: rgba(0, 0, 0, 0);
-  background-origin: initial;
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
   position: relative;
   z-index: 0;
   margin-top: -80px;
+  background: linear-gradient(to bottom, rgba(0,0,0,0) 70%, rgba(0,0,0,0)
+  41%, rgba(0,0,0,0.65) 100%),
+  url(../uploads/payment-gateway.jpg), #1c1c1c;
+  background-position: center center;
+  background-repeat: no-repeat; 
+  background-size: cover;
 }
 
 .banner-bg-1::before {
